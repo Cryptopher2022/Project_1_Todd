@@ -1,4 +1,8 @@
 # Project_1_Todd
+UPDATE:  The link inside the repository to the new and older versions of the Jupyter Lab code is:
+
+https://github.com/Cryptopher2022/Project_1_Todd/blob/main/Todd's_code_SMA/From_git_hub/Proj_JV_prac-adf6d7cfb2e60e1d8fe359226315f4162a8bdc20/Jaime_/BTC_ETH_SP500_NASD-Copy1.ipynb
+
 This is the repository of my work for Project 1
 
 Block 1: Jaime's code - pulling data from data sources and putting them into CSV files.
